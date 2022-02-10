@@ -7,4 +7,4 @@ websocket-client==1.2.3
 Pillow==9.0.1
 emoji==1.6.3
 requests==2.27.1
-numpy~=1.20.1
+numpy~=1.21.5
