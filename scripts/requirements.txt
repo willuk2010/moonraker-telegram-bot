@@ -8,4 +8,4 @@ Pillow==9.0.1
 emoji==1.6.3
 requests==2.27.1
 numpy~=1.21.5
-opencv-python~=3.4.8.29
+opencv-python~=4.5.5.62
